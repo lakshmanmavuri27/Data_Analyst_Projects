@@ -62,7 +62,24 @@ The project transforms raw sales and shipment data into an interactive dashboard
 - Shipment quantity comparisons.
 - Shipment performance trends.
 
-## 📷 Dashboard Preview
+
+## 📸 Power BI Dashboard Screenshots
+
+### Screenshot 1 – Dashboard Overview
+
+![Dashboard Overview](Screenshots/Screenshot%202026-11-02%20190401.png)
+
+### Screenshot 2 
+
+![Sales Analysis](Screenshots/Screenshot%202026-11-02%20190424.png)
+
+### Screenshot 3 
+
+![Product Analysis](Screenshots/Screenshot%202026-11-02%20190456.png)
+
+### Screenshot 4 
+![Business Insights](Screenshots/Screenshot%202026-11-02%20190526.png)
+
 
 
 
