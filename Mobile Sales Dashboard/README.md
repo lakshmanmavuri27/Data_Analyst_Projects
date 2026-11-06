@@ -48,17 +48,17 @@ These filters allow users to analyze specific segments of the sales data.
 
 ## 📸 Dashboard Screenshots
 
-### Mobile Sales Analysis Dashboard
-![Mobile Sales Dashboard](images/mobile-sales-dashboard.png)
+### 1. Mobile Sales Dashboard
+![Mobile Sales Dashboard](Screenshots/Screenshot%202026-11-05%20212738.png)
 
-### Image 1
-![Sales Overview](images/sales-overview.png)
+### 2. Dashboard View
+![Dashboard View](Screenshots/Screenshot%202026-11-05%20213121.png)
 
-### Image 2
-![Dashboard Details](images/dashboard-details.png)
+### 3. Sales Analysis
+![Sales Analysis](Screenshots/Screenshot%202026-11-05%20213135.png)
 
-### Image 3
-![Power BI Data Fields](images/power-bi-data-fields.png)
+### 4. Additional Dashboard View
+![Additional Dashboard View](Screenshots/Screenshot%202026-11-05%20213331.png)
 
 ## 💡 Project Objectives
 
