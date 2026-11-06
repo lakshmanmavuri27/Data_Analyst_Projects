@@ -46,6 +46,19 @@ These filters allow users to analyze specific segments of the sales data.
 - **DAX:** Creating measures and calculating key performance indicators.
 - **Data Modeling:** Organizing data fields for analysis.
 
+## 📸 Dashboard Screenshots
+
+### Mobile Sales Analysis Dashboard
+![Mobile Sales Dashboard](images/mobile-sales-dashboard.png)
+
+### Image 1
+![Sales Overview](images/sales-overview.png)
+
+### Image 2
+![Dashboard Details](images/dashboard-details.png)
+
+### Image 3
+![Power BI Data Fields](images/power-bi-data-fields.png)
 
 ## 💡 Project Objectives
 
